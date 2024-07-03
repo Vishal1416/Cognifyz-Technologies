@@ -1,0 +1,28 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #007bff !important;
+}
+
+main {
+    min-height: 500px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+footer a:hover {
+    color: #007bff !important;
+    text-decoration: none;
+}
+
+/* Add more custom styles as needed */

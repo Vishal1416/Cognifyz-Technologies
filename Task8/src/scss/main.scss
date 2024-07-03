@@ -1,0 +1,17 @@
+$primary-color: #007bff;
+$background-color: #f4f4f4;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: $background-color;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: $primary-color;
+}
